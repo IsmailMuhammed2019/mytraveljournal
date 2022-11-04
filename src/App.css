@@ -34,4 +34,12 @@ img {
  justify-content: center;
  align-items: center;
  background-color: rgb(219, 121, 121);
+ color: #ffffff;
+ display: flex;
+}
+
+.header > img {
+ width: 50px;
+ height: auto;
+ margin-right: 20px;
 }

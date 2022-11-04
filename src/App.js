@@ -9,7 +9,7 @@ const App = () => {
   })
   return (
     <div className='section'>
-      <div className='header'><img src="./imgs/globe.png" alt="globe"/> <h2>My Travel Journal</h2></div>
+      <div className='header'><img src="./imgs/globe.png" alt="globe"/> <h1>My Travel Journal</h1></div>
       <div className='place'>
         {places}
       </div>
