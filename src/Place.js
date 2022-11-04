@@ -10,7 +10,7 @@ const Place = (props) => {
         <p><img src='./imgs/location.png' alt='icon'/> {props.location} <a href='${props.link'>view on Google Maps</a></p>
         <h2>{props.name}</h2>
         <p className='date'>{props.date}</p>
-        <p>{props.text}</p>
+        <p>{props.info}</p>
       </div>
     </div>
   )
