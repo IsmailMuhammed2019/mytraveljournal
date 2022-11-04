@@ -10,3 +10,14 @@ body{
  font-family: 'Poppins', sans-serif;
 
 }
+
+img {
+ width: 100%;
+ height: auto;
+}
+
+.section {
+ width: 700px;
+ height: 80vh;
+ background-color: #f3f3f3;
+}
