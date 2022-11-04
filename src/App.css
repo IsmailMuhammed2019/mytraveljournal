@@ -22,3 +22,10 @@ img {
  background-color: #f3f3f3;
 }
 
+.header {
+ height: 150px;
+ width: 100%;
+ justify-content: center;
+ align-items: center;
+ background-color: rgb(219, 121, 121);
+}
