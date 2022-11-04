@@ -34,7 +34,7 @@ img {
  justify-content: center;
  align-items: center;
  background-color: rgb(219, 121, 121);
- color: #ffffff;
+ color: #110b0b;
  display: flex;
 }
 
@@ -43,4 +43,5 @@ img {
  height: auto;
  margin-right: 20px;
 }
+
 
