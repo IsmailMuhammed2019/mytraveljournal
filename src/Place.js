@@ -2,7 +2,7 @@ import React from 'react'
 
 const Place = (props) => {
   return (
-    <div>
+    <div className='place_card'>
       <div className='image_div'>
       <img src={`./imgs/${props.img}`} alt=" "/>
       </div>

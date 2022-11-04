@@ -44,4 +44,20 @@ img {
  margin-right: 20px;
 }
 
+.place {
+ display: flex;
+ flex-direction: column;
+}
 
+.place_card {
+ display: flex;
+}
+.image_div{
+ width: 100px;
+ height: auto;
+}
+
+p > img {
+ width: 12px;
+ height:auto;
+}
